@@ -1,3 +1,5 @@
+> Readme contém tanto o EX001 quanto o EX002! Obrigado!
+
 # EX001 - Redesign de pop-up
 
 ## Análise
