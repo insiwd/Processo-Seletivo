@@ -1,5 +1,4 @@
-# Processo-Seletivo
-Repositório criado para armazenar os exercícios da segunda fase do processo seletivo feito em 17/02/2025.
+# Redesign de pop-up
 
 ## Análise
 O primeiro design já é bom e intuitivo, mas eu quis abordar o pop-up com um olhar mais moderno e duradouro. Analisando o deisgn antigo, percebi pontos que poderiam ser melhorados, são:
