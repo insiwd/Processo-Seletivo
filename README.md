@@ -1,4 +1,4 @@
-# Redesign de pop-up
+# EX001 - Redesign de pop-up
 
 ## Análise
 O primeiro design já é bom e intuitivo, mas eu quis abordar o pop-up com um olhar mais moderno e duradouro. Analisando o deisgn antigo, percebi pontos que poderiam ser melhorados, são:
@@ -18,4 +18,17 @@ O primeiro design já é bom e intuitivo, mas eu quis abordar o pop-up com um ol
 ![](https://github.com/insiwd/Processo-Seletivo/blob/main/exercicio%201%20-%20pop-up/resultado.png)
 
 > No repositório há duas imagens: o resultado final e o export, sem perda de qualidade!
+> Obrigado!
+
+# EX002 - Landing Page
+
+## Apresentação
+
+O exercício requisitou a criação de uma landing page para um residencial.
+A landing page é moderna, intuitiva e contém todas as informações e funcionalidades importantes para um site comercial.
+
+## Resultado
+
+![](https://github.com/insiwd/Processo-Seletivo/blob/main/exercicio%202%20-%20landing-page/resultado.png)
+
 > Obrigado!
