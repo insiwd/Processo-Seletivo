@@ -16,4 +16,4 @@ O primeiro design já é bom e intuitivo, mas eu quis abordar o pop-up com um ol
 
 ## Resultado final:
 
-!(exercicio 1 - pop-up/resultado.png)
+![](https://github.com/insiwd/Processo-Seletivo/blob/main/exercicio%201%20-%20pop-up/resultado.png)
