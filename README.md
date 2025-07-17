@@ -15,3 +15,5 @@ O primeiro design já é bom e intuitivo, mas eu quis abordar o pop-up com um ol
 - Foi mudado a fonte, o botão para acessar e também as cores do mapa do carrossel.
 
 ## Resultado final:
+
+!(exercicio 1 - pop-up/resultado.png)
